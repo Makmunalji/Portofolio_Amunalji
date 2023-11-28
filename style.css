@@ -1,3 +1,7 @@
+
+.container .navbar-brand{
+  font-family: 'Viga', sans-serif;
+}
 .navbar-nav a:hover::after{
   content: '';
   display: block;
